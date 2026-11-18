@@ -5,7 +5,7 @@ import { useEffect, useRef } from "react";
 const skills = [
   "react.js", "react native", "angular", "typescript", "node.js", "express", "fastapi",
   "postgresql + postgis", "mysql", "mongodb", "redis", "aws ecs · rds · terraform",
-  "github actions", "expo · eas", "stripe · razorpay", "oauth 2.0 · jwt", "websockets", "ai apis",
+  "github actions", "expo · eas", "stripe · razorpay", "oauth 2.0 · jwt", "websockets", "ai apis", ".Net Core"
 ];
 
 /**
